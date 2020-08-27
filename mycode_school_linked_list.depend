@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1597728664 source:d:\randomness\cs\mycode_school_linked_list\main.cpp
+	<iostream>
+	"node.cpp"
+	"add_node_at_head_of_linked_list.cpp"
+	"add_node_at_nth.cpp"
+	"delete_node_at_nth.cpp"
+
+1597693249 d:\randomness\cs\mycode_school_linked_list\node.cpp
+
+1597693251 d:\randomness\cs\mycode_school_linked_list\add_node_at_head_of_linked_list.cpp
+
+1597693363 d:\randomness\cs\mycode_school_linked_list\add_node_at_nth.cpp
+
+1597752220 d:\randomness\cs\mycode_school_linked_list\delete_node_at_nth.cpp
+
